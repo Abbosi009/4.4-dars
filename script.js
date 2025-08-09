@@ -159,3 +159,4 @@ console.log(path29.split('.').pop());
 let path30 = "D:/Qudrat_c++/books/My_book.exe";
 let parts30 = path30.split('/');
 console.log(parts30.length > 2 ? parts30[parts30.length - 2] : "/");
+//
